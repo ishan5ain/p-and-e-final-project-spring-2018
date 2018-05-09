@@ -1,14 +1,17 @@
-NB: You might find useful the [sample proposal](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
-
-# Your Project Title Here
-
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+# Data Privacy: Measuring Digital Footprints
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
+An Installation that makes people more aware about their data privacy and artistically represents their digital footprint.
 
-Include a discussion how it will be interactive or responsive to the environment.
+## Context
+Every day, whether we want to or not, most of us contribute to a growing portrait of who we are online; a portrait that is probably more public than we assume.
+This portrait helps companies target content at specific markets and consumers, helps employers look into your background, and helps advertisers track your movements across multiple websites. Whatever we do online, we might be leaving our digital footprints behind.
+
+Your digital footprint paints a picture of who you are and its unique to every individual.
+Surprisingly very few people are aware about it. It's important to be conscious of the impact and the consequences of the footprint you leave behind.
+This installation aims at making people more conscious about their online activity. It also gives a artistic representation to a person’s intangible digital footprint.
+
 
 ## Component Parts
 
@@ -25,7 +28,7 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
-- Week 2: 
+- Week 2:
 - Week 3:
 - Week 4:
 - Week 5: Present!

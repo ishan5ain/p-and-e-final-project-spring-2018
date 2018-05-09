@@ -21,12 +21,16 @@ Input - Selecting choices based on every question
 Output - Abstract visual representation of your footprint based on your choices.
 Data - User’s answers were translated using a inbuilt logic that is represented in  an abstract shape. The shape will show a person's digital footprint unique to every individual.
 
+![](https://github.com/ishan5ain/p-and-e-final-project-spring-2018/blob/master/readme_assets/component-diagram.jpg)
+
 
 ### How the Footprint graphic is Mapped:
 
 Radar (Spider) Chart was used as an inspiration.
 
 Each of the 7 questions will form individual axes which have been arranged radially around a point. The value of each aspect is depicted by the node (anchor) on the spoke (axis) ranging from 0 to 100 percent. Every option selected represents one circle holding a value of 25 percent. A line is drawn connecting all the node together forming a shape. And thus, you get your footprint with unique to every individual.
+
+![](https://github.com/ishan5ain/p-and-e-final-project-spring-2018/blob/master/readme_assets/poster_1.jpg)
 
 
 ## Challenges

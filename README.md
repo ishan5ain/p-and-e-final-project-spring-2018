@@ -15,11 +15,11 @@ This installation aims at making people more conscious about their online activi
 
 ## Component Parts
 
-Hardware - iPad, Foam Core Casing
-Software - P5js Sketch hosted online
-Input - Selecting choices based on every question
-Output - Abstract visual representation of your footprint based on your choices.
-Data - User’s answers were translated using a inbuilt logic that is represented in  an abstract shape. The shape will show a person's digital footprint unique to every individual.
+Hardware - iPad, Foam Core Casing  
+Software - P5js Sketch hosted online  
+Input - Selecting choices based on every question  
+Output - Abstract visual representation of your footprint based on your choices  
+Data - User’s answers were translated using a inbuilt logic that is represented in  an abstract shape. The shape will show a person's digital footprint unique to every individual.  
 
 ![](https://github.com/ishan5ain/p-and-e-final-project-spring-2018/blob/master/readme_assets/component-diagram.jpg)
 
